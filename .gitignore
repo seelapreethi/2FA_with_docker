@@ -4,7 +4,7 @@ encrypted_seed.txt
 # Python cache
 __pycache__/
 *.pyc
-
+data/seed.txt
 # Environment files
 .env
 
